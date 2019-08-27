@@ -45,7 +45,9 @@ public class TestJmx {
 	public static void jmxTest(int colNum) {
 
 		try {
-            
+
+			System.out.println("star....");
+			System.out.println("star....");
 			// 最大堆内存
 			long heapMaxMemory = 0;
 			// 已分配堆内存
