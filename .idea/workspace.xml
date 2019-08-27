@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6edf602f-09e6-476c-8413-6e4dbe30ac89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/toptea/test/TestJmx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/toptea/test/TestJmx.java" afterDir="false" />
-    </list>
+    <list default="true" id="6edf602f-09e6-476c-8413-6e4dbe30ac89" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,8 +63,16 @@
       <updated>1566832030218</updated>
       <workItem from="1566832034983" duration="347000" />
       <workItem from="1566832546727" duration="12000" />
-      <workItem from="1566893010450" duration="2341000" />
+      <workItem from="1566893010450" duration="2600000" />
     </task>
+    <task id="LOCAL-00001" summary="201908271654">
+      <created>1566896074464</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566896074464</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="201908271654" />
+    <option name="LAST_COMMIT_MESSAGE" value="201908271654" />
   </component>
 </project>
